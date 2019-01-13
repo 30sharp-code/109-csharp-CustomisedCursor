@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CustomCursor_30sharp.Properties.Resources.resources
+obj\Debug\CustomCursor_30sharp.csproj.GenerateResource.Cache
+bin\Debug\CustomCursor_30sharp.exe
+bin\Debug\CustomCursor_30sharp.pdb
+obj\Debug\CustomCursor_30sharp.exe
+obj\Debug\CustomCursor_30sharp.pdb
+obj\Debug\CursorTest.CursorTest.resources
+bin\Debug\CustomCursor_30sharp.exe.config
